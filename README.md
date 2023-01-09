@@ -20,20 +20,20 @@
 
 <h2>Video Demonstration</h2>
 
-![upload](https://user-images.githubusercontent.com/59034949/211351962-1535da9e-1400-4bb8-9909-3f885a182028.jpg)
+![upload](https://user-images.githubusercontent.com/59034949/211355032-a9b28716-902d-4a91-a41a-79ec95ee14e7.jpg)
 
 
-### [ View Video Demo Part 1]([https://www.youtube.com](https://youtu.be/_3J3fDQ2NLM))
+### [ View Video Demo Part 1](https://youtu.be/_3J3fDQ2NLM)
 <hr>
 
 
 ![grouping](https://user-images.githubusercontent.com/59034949/211352114-c61865fe-6d51-43e3-9809-2fe8a527e196.jpg)
 
 
-### [ View Video Demo Part 2](https://www.youtube.com)
+### [ View Video Demo Part 2](https://youtu.be/W-FeSeF_6Pg)
 <hr>
 
 ![clean up](https://user-images.githubusercontent.com/59034949/211351471-58bd13bc-f87c-4de3-b70a-b44ee9ceac05.jpg)
 
 
-### [ View Video Demo Part 3](https://www.youtube.com)
+### [ View Video Demo Part 3](https://youtu.be/DcrI1lrJsE4)
